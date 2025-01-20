@@ -1,0 +1,19 @@
+{
+	"name": "@alpinevm/ts-node-template",
+	"version": "0.0.1",
+	"description": "Typescript Node template",
+	"type": "module",
+	"scripts": {
+		"start": "tsx src/index.ts"
+	},
+	"license": "MIT",
+	"devDependencies": {
+		"@types/node": "^22.10.7",
+		"eslint": "^9.18.0",
+		"eslint-config-prettier": "^9.1.0",
+		"prettier": "^3.4.2",
+		"ts-node": "^10.9.2",
+		"tsx": "^4.19.2",
+		"typescript": "^5.7.3"
+	}
+}
